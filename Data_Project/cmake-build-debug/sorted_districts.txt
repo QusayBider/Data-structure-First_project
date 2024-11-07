@@ -1,0 +1,16 @@
+Gaza District ,Population = 92004
+Rafah,2001
+Jabalia,20001
+Kanyonus,20002
+BeitHanoon,50000
+Hebron District ,Population = 165000
+darstya,20000
+Habboo,45000
+Halhul,100000
+jerico District ,Population = 5100
+aac,100
+abc,5000
+Tulkaurm District ,Population = 24000
+Fourn,5000
+dare,7000
+atial,12000

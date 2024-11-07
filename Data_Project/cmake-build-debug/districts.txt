@@ -1,0 +1,15 @@
+Hebron|Dura|100000
+Hebron|Dura|100000
+Hebron|Halhul|100000
+Jenin|Jaba|7000
+Jenin|Yabad|31000
+Jenin|Jenin|92000
+Gaza|Kanyonus|20002
+Gaza|Jabalia|20001
+Gaza|Rafah|2001
+Gaza|BeitHanoon|50000
+Hebron|darstya|20000
+Hebron|Habboo|45000
+Tulkaurm|Fourn|5000
+Tulkaurm|dare|7000
+Tulkaurm|atial|12000
